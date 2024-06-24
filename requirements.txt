@@ -4,3 +4,4 @@ langchain
 langchain_community
 spacy
 python-dotenv
+langchain_anthropic
